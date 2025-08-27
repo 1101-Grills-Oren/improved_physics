@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "ember/improvedphysics/mixin/EntityMovementMixin": {
+      "getVelocityMultiplier": "Lnet/minecraft/class_1297;method_23326()F",
+      "move": "Lnet/minecraft/class_1297;method_5784(Lnet/minecraft/class_1313;Lnet/minecraft/class_243;)V",
+      "updateVelocity": "Lnet/minecraft/class_1297;method_5724(FLnet/minecraft/class_243;)V"
+    },
+    "ember/improvedphysics/mixin/LivingEntityMovementMixin": {
+      "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "ember/improvedphysics/mixin/EntityMovementMixin": {
+        "getVelocityMultiplier": "Lnet/minecraft/class_1297;method_23326()F",
+        "move": "Lnet/minecraft/class_1297;method_5784(Lnet/minecraft/class_1313;Lnet/minecraft/class_243;)V",
+        "updateVelocity": "Lnet/minecraft/class_1297;method_5724(FLnet/minecraft/class_243;)V"
+      },
+      "ember/improvedphysics/mixin/LivingEntityMovementMixin": {
+        "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+      }
+    }
+  }
+}
